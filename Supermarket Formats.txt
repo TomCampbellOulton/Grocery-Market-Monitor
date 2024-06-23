@@ -1,0 +1,9 @@
+Aldi: "https://groceries.aldi.co.uk/en-GB/Search?keywords=carrots"
+Tesco: "https://www.tesco.com/groceries/en-GB/search?query=carrots"
+Morrisons: "https://groceries.morrisons.com/search?entry=carrots"
+Sainsburys: "https://www.sainsburys.co.uk/gol-ui/SearchResults/carrots"
+Asda: "https://groceries.asda.com/search/carrots"
+Lidl: "" # PIMA!
+M&S: "" # Ocado
+Ocado: "https://www.ocado.com/search?entry=carrots"
+Waitrose: "https://www.waitrose.com/ecom/shop/search?&searchTerm=carrots"
